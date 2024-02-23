@@ -1,5 +1,5 @@
 {
-  "project_id": "	ada2024-413619",
+  "project_id": "ada2024-413619",
   "data_bucket": "adaconfs_j",
   "trainset_filename": "training_set.csv",
   "model_repo": "labrepo"
